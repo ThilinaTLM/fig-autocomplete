@@ -7,7 +7,6 @@ npm-debug.log
 .env
 
 .idea
-.vscode
 specs
 
 # we don't have any dependencies which are bundled with
@@ -16,3 +15,4 @@ specs
 package-lock.json
 yarn.lock
 pnpm-lock.yaml
+.vscode/
